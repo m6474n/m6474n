@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey There! 👋
 
-<!--
-**m6474n/m6474n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Mohsin** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter and Mern Stack Development. Presently, I'm developing Mern Stack Apps, Software & apps with Flutter.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,express,react,nodejs,photoshop,illustrator,xd,vscode,git,github&theme=dark" />
+  </a>
+  
+### 🌐 Socials:
+<a href="https://instagram.com/mosen_here">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+    <a href="https://mosen_dev03@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50"  /></a>
