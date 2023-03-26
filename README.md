@@ -12,4 +12,7 @@
 <a href="https://instagram.com/mosen_here">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
+  <a href="https://facebook.com/mosen_here">
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
+  </a>
     <a href="https://mosen_dev03@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Cutout.png" height="50"  /></a>
