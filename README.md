@@ -1,6 +1,6 @@
 # Hey There! 👋🏻
 
-**I'm Mohsin** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter and Mern Stack Development. Presently, I'm developing Mern Stack Apps, Software & apps with Flutter.
+**Mohsin here** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter and Mern Stack Development. Presently, I'm developing Mern Stack Apps, Software & apps with Flutter.
 
 ### 💻 Tech Stack:
 
