@@ -1,11 +1,11 @@
-# Hey There! 👋🏻
+s# Hey There! 👋🏻
 
 **Mohsin here** - I'm a Flutter developer, currently, I Study Software Engineering, and I'm so interested in Dart/Flutter and Mern Stack Development. Presently, I'm developing Mern Stack Apps, Software & apps with Flutter.
 
 ### 💻 Tech Stack:
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,express,react,nodejs,photoshop,illustrator,figma,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mongodb,express,react,nodejs,photoshop,illustrator,figma,vscode,git,github&theme=dark" />
   </a>
   
 ### 🌐 Socials:
