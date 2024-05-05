@@ -5,7 +5,7 @@
 ### 💻 Tech Stack:
 
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mongodb,express,react,nodejs,photoshop,illustrator,figma,vscode,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,mongodb,express,react,nodejs,rails,mysql,postman,photoshop,illustrator,figma,vscode,git,github&theme=dark" />
   </a>
   
 ### 🌐 Socials:
