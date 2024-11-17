@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **m.mohsin2055@gmail.com**
 
-- 📄 Know about my experiences [https://m6474n.github.io/](https://m6474n.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
