@@ -3,6 +3,27 @@
 </h1><h3 align="center">A passionate Full stack Web and Mobile App Developer from Pakistan</h3>
 
 
+<div style="display: flex; justify-content: center;">
+  <img src="github-banner.png" width="800px" />
+</div>
+
+<div align="center"> 
+  <a href="mailto:m.mohsin2055@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/m6474n" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[https://www.upwork.com/freelancers/eeshat3](https://www.fiverr.com/mosen_dev55)" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</div>
+
+<h2 align="center">Profile Views:</h2>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=m6474n&label=Recent%20Visitors&color=e9164b&style=flat" alt="Mosen" /> 
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/mosen_here" target="blank"><img src="https://img.shields.io/twitter/follow/mosen_here?logo=twitter&style=for-the-badge" alt="mosen_here" /></a> </p>
 
