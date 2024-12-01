@@ -4,7 +4,7 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="github-banner.png" width="800px" />
+  <img src="github-banner.png" width="1200px" />
 </div>
 
 <div align="center"> 
