@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mosen</h1>
-<h3 align="center">A passionate Full stack Web and Mobile App Developer from Pakistan</h3>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+I'm+Mosen!;" />
-</h1>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=1200&height35&duration=8000&lines=A+passionate+Full+stack+Web+and+Mobile+App+Developer+from+Pakistan;" />
-</h3>
+</h1><h3 align="center">A passionate Full stack Web and Mobile App Developer from Pakistan</h3>
+
+
 
 <p align="left"> <a href="https://twitter.com/mosen_here" target="blank"><img src="https://img.shields.io/twitter/follow/mosen_here?logo=twitter&style=for-the-badge" alt="mosen_here" /></a> </p>
 
