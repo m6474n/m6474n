@@ -47,65 +47,9 @@
 
 ---
 
-## `01 /` Tech Stack
 
-<br/>
 
-**Mobile**
-
-<p>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="36" height="36" title="Flutter"/></a>
-  &nbsp;
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="36" height="36" title="Dart"/></a>
-  &nbsp;
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" title="Firebase"/></a>
-</p>
-
-**Frontend**
-
-<p>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36" title="React"/></a>
-  &nbsp;
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" title="Next.js"/></a>
-  &nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36" title="Tailwind CSS"/></a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" title="TypeScript"/></a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" title="JavaScript"/></a>
-  &nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" title="HTML5"/></a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36" title="CSS3"/></a>
-  &nbsp;
-  <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="36" height="36" title="Sass"/></a>
-</p>
-
-**Backend**
-
-<p>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" title="Node.js"/></a>
-  &nbsp;
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36" title="Express"/></a>
-  &nbsp;
-  <a href="https://rubyonrails.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="36" height="36" title="Rails"/></a>
-  &nbsp;
-  <a href="https://www.ruby-lang.org/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" title="Ruby"/></a>
-  &nbsp;
-  <a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="36" height="36" title="Electron"/></a>
-</p>
-
-**Data**
-
-<p>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" title="MongoDB"/></a>
-  &nbsp;
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" title="PostgreSQL"/></a>
-</p>
-
----
-
-## `02 /` Stats
+## Stats
 
 <br/>
 
