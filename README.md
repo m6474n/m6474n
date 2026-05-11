@@ -73,7 +73,7 @@ Figma to production. No handoff. No compromise.
 > Have a system to build, a product to launch, or a pipeline to automate?
 
 → **[mosen.dev](https://mosen.dev)**  
-→ **hi@mosen.dev**
+→ **hello@mosen.dev**
 
 ---
 
