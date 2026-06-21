@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Mosen — Full-Stack Developer, Mobile Engineer, Automation Builder" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGttrZxggXSGA/profile-displaybackgroundimage-shrink_350_1400/B4DZ3fTjtLJYAc-/0/1777567959244?e=1783555200&v=beta&t=xN1wLhkRVgP5wEunYNNZ2vLdbDT2YnvQgsIjpPf6y-Y" width="100%" alt="Mosen — Full-Stack Developer, Mobile Engineer, Automation Builder" />
 
 <br/>
 
 <a href="https://mosen.dev"><img src="https://img.shields.io/badge/mosen.dev-1C1C1E?style=for-the-badge&logoColor=FAFAFA" alt="Website"/></a>
-<a href="https://instagram.com/mosen.dev"><img src="https://img.shields.io/badge/@mosen.dev-7C3AED?style=for-the-badge&logo=instagram&logoColor=FAFAFA" alt="Instagram"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn"/></a>
+<a href="https://instagram.com/buildwithmosen"><img src="https://img.shields.io/badge/@mosen.dev-7C3AED?style=for-the-badge&logo=instagram&logoColor=FAFAFA" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/muhammad--mohsin/"><img src="https://img.shields.io/badge/LinkedIn-9333EA?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn"/></a>
 
 </div>
 
