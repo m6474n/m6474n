@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGttrZxggXSGA/profile-displaybackgroundimage-shrink_350_1400/B4DZ3fTjtLJYAc-/0/1777567959244?e=1783555200&v=beta&t=xN1wLhkRVgP5wEunYNNZ2vLdbDT2YnvQgsIjpPf6y-Y" width="100%" alt="Mosen — Full-Stack Developer, Mobile Engineer, Automation Builder" />
+<img src="https://github.com/m6474n/m6474n/blob/main/Github%20Banner.png" width="100%" alt="Mosen — Full-Stack Developer, Mobile Engineer, Automation Builder" />
 
 <br/>
 
