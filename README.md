@@ -58,7 +58,7 @@ Automation Systems  →  Revenue Engines  →  Product Design & Development
 | **Appex Global Trading** | Dual-app suite for trading operations |
 | **Weighbridge Management System** | End-to-end weighbridge ops and reporting |
 | **Lead Qualification Agent** | AI agent that qualifies inbound leads automatically — the project that proved "show the system" content works |
-| **CRM — Leads Module** | Flutter Web + Firestore CRM, qualification agent wired in as a microservice |
+| **Freelance OS** | Flutter Web + Firestore CRM covering leads, clients, projects, and invoices — qualification agent wired in as a microservice |
 
 <br/>
 
